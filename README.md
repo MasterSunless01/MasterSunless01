@@ -15,33 +15,26 @@
 
 <!-- ═══════════════ OPENING CINEMATIC ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020000,20:160006,50:58000B,75:AA001B,100:050000&text=MASTER%20SUNLESS&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=THE%20SHADOW%20PATH%20%E2%80%94%20A%20DEVELOPER'S%20ODYSSEY&descSize=15&descAlignY=61&animation=fadeIn" />
+ <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&color=0:030000,35:250008,75:990018,100:030000&text=MASTER%20SUNLESS&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=◈%20THE%20SHADOW%20PATH%20◈&descSize=14&descAlignY=67" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=800&color=FF243D&center=true&vCenter=true&width=650&lines=FULL-STACK+DEVELOPER+IN+THE+MAKING;BUILDING.+BREAKING.+EVOLVING.;THE+NEXT+CHAPTER+IS+MINE." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=FF1E33&center=true&vCenter=true&width=850&lines=NOT+EVERY+LEGEND+BEGINS+WITH+A+DESTINY.;SOME+BEGIN+WITH+A+SINGLE+LINE+OF+CODE.;WELCOME+TO+THE+SHADOW+PATH.;THE+AWAKENING+HAS+BEGUN." />
+<a href="https://github.com/MasterSunless01"><img src="https://img.shields.io/badge/GITHUB-MASTER%20SUNLESS-8A0010?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=MasterSunless01&style=flat-square&color=8A0010&label=VISITORS" />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/MasterSunless01">
-<img src="https://img.shields.io/badge/IDENTITY-MASTER%20SUNLESS-100006?style=for-the-badge&labelColor=050000&color=8A0010" />
-</a>
-<a href="https://github.com/MasterSunless01?tab=repositories">
-<img src="https://img.shields.io/badge/REALM-THE%20DIGITAL%20WORLD-100006?style=for-the-badge&labelColor=050000&color=8A0010" />
-</a>
-<a href="mailto:estonoo18@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-ESTABLISH%20CONNECTION-100006?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050000&color=8A0010" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MasterSunless01&style=for-the-badge&color=8A0010&label=SOULS+ENTERED+THIS+REALM" />
-
-<br/><br/>
-
-<sub>✦ A JOURNEY THROUGH CODE, CREATIVITY AND CONSTANT EVOLUTION ✦</sub>
+<sub>⚔️ CODE IS THE WEAPON. CREATIVITY IS THE POWER. ⚔️</sub>
 
 </div>
+
+---
+
+
 
 ---
 
